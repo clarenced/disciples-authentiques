@@ -1,0 +1,19 @@
+{
+  "name": "disciple-authentique",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "slidev --open",
+    "present": "slidev --remote",
+    "build": "slidev build",
+    "export": "slidev export",
+    "pdf": "slidev export --with-clicks"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.18.0",
+    "@slidev/theme-default": "^0.25.0"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.63.0"
+  }
+}

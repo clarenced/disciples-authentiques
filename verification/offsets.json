@@ -1,0 +1,98 @@
+{
+  "intro-02.png": {
+    "x": 138,
+    "y": 233,
+    "w": 1373,
+    "h": 481,
+    "score": 0.9999999403953552,
+    "reference": "intro-originale.png"
+  },
+  "intro-03.png": {
+    "x": 236,
+    "y": 654,
+    "w": 1082,
+    "h": 370,
+    "score": 1.0,
+    "reference": "intro-originale.png"
+  },
+  "01-consommateur.png": {
+    "x": 6,
+    "y": 140,
+    "w": 388,
+    "h": 191,
+    "score": 0.9999712109565735,
+    "reference": "00-originale.png"
+  },
+  "02-consommateur.png": {
+    "x": 1121,
+    "y": 115,
+    "w": 404,
+    "h": 227,
+    "score": 0.9999774694442749,
+    "reference": "00-originale.png"
+  },
+  "03-consommateur.png": {
+    "x": 278,
+    "y": 713,
+    "w": 1036,
+    "h": 299,
+    "score": 0.9999798536300659,
+    "reference": "00-originale.png"
+  },
+  "11-projet-jesus.png": {
+    "x": 549,
+    "y": 132,
+    "w": 596,
+    "h": 237,
+    "score": 0.9999780654907227,
+    "reference": "10-originale.png"
+  },
+  "12-projet-jesus.png": {
+    "x": 1124,
+    "y": 224,
+    "w": 506,
+    "h": 344,
+    "score": 0.99996018409729,
+    "reference": "10-originale.png"
+  },
+  "13-projet-jesus.png": {
+    "x": 104,
+    "y": 203,
+    "w": 476,
+    "h": 380,
+    "score": 0.9999681115150452,
+    "reference": "10-originale.png"
+  },
+  "21-puissance-jesus.png": {
+    "x": 11,
+    "y": 647,
+    "w": 1135,
+    "h": 370,
+    "score": 0.9999621510505676,
+    "reference": "20-originale.png"
+  },
+  "22-puissance-jesus.png": {
+    "x": 1167,
+    "y": 5,
+    "w": 369,
+    "h": 505,
+    "score": 0.9999527335166931,
+    "reference": "20-originale.png"
+  },
+  "23-puissance-jesus.png": {
+    "x": 1167,
+    "y": 494,
+    "w": 365,
+    "h": 510,
+    "score": 0.9999465942382812,
+    "reference": "20-originale.png"
+  },
+  "31-famille-jesus.png": {
+    "x": 324,
+    "y": 700,
+    "w": 912,
+    "h": 318,
+    "score": 0.9999701976776123,
+    "reference": "30-originale.png"
+  }
+}
