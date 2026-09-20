@@ -6,7 +6,7 @@ defineProps<{
 
 <template>
   <div class="full-bleed">
-    <img :src="image" class="full-bleed-img" alt="" />
+    <BaseImg :src="image" class="full-bleed-img" alt="" />
     <div class="full-bleed-content">
       <slot />
     </div>

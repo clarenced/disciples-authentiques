@@ -20,9 +20,9 @@ layout: background
 
 <div class="sheet-wrap">
   <div class="sheet" style="aspect-ratio: 1536 / 1024">
-    <img src="/intro-01.png" class="sheet-layer" v-click="1" />
-    <img src="/intro-02.png" class="sheet-layer" v-click="2" />
-    <img src="/intro-03.png" class="sheet-layer" v-click="3" />
+    <BaseImg src="/intro-01.png" class="sheet-layer" v-click="1" />
+    <BaseImg src="/intro-02.png" class="sheet-layer" v-click="2" />
+    <BaseImg src="/intro-03.png" class="sheet-layer" v-click="3" />
   </div>
 </div>
 
@@ -102,10 +102,10 @@ layout: background
 
 <div class="sheet-wrap">
   <div class="sheet" style="aspect-ratio: 1536 / 1024">
-    <img src="/00-consommateur.png" class="sheet-layer" />
-    <img src="/01-consommateur.png" class="sheet-layer" v-click="1" />
-    <img src="/02-consommateur.png" class="sheet-layer" v-click="2" />
-    <img src="/03-consommateur.png" class="sheet-layer" v-click="3" />
+    <BaseImg src="/00-consommateur.png" class="sheet-layer" />
+    <BaseImg src="/01-consommateur.png" class="sheet-layer" v-click="1" />
+    <BaseImg src="/02-consommateur.png" class="sheet-layer" v-click="2" />
+    <BaseImg src="/03-consommateur.png" class="sheet-layer" v-click="3" />
   </div>
 </div>
 
@@ -122,10 +122,10 @@ layout: background
 
 <div class="sheet-wrap">
   <div class="sheet" style="aspect-ratio: 1672 / 941">
-    <img src="/10-projet-jesus.png" class="sheet-layer" />
-    <img src="/11-projet-jesus.png" class="sheet-layer" v-click="1" />
-    <img src="/12-projet-jesus.png" class="sheet-layer" v-click="2" />
-    <img src="/13-projet-jesus.png" class="sheet-layer" v-click="3" />
+    <BaseImg src="/10-projet-jesus.png" class="sheet-layer" />
+    <BaseImg src="/11-projet-jesus.png" class="sheet-layer" v-click="1" />
+    <BaseImg src="/12-projet-jesus.png" class="sheet-layer" v-click="2" />
+    <BaseImg src="/13-projet-jesus.png" class="sheet-layer" v-click="3" />
   </div>
 </div>
 
@@ -142,10 +142,10 @@ layout: background
 
 <div class="sheet-wrap">
   <div class="sheet" style="aspect-ratio: 1536 / 1024">
-    <img src="/20-puissance-jesus.png" class="sheet-layer" />
-    <img src="/21-puissance-jesus.png" class="sheet-layer" v-click="1" />
-    <img src="/22-puissance-jesus.png" class="sheet-layer" v-click="2" />
-    <img src="/23-puissance-jesus.png" class="sheet-layer" v-click="3" />
+    <BaseImg src="/20-puissance-jesus.png" class="sheet-layer" />
+    <BaseImg src="/21-puissance-jesus.png" class="sheet-layer" v-click="1" />
+    <BaseImg src="/22-puissance-jesus.png" class="sheet-layer" v-click="2" />
+    <BaseImg src="/23-puissance-jesus.png" class="sheet-layer" v-click="3" />
   </div>
 </div>
 
@@ -162,8 +162,8 @@ layout: background
 
 <div class="sheet-wrap">
   <div class="sheet" style="aspect-ratio: 1536 / 1024">
-    <img src="/30-famille-jesus.png" class="sheet-layer" />
-    <img src="/31-famille-jesus.png" class="sheet-layer" v-click="1" />
+    <BaseImg src="/30-famille-jesus.png" class="sheet-layer" />
+    <BaseImg src="/31-famille-jesus.png" class="sheet-layer" v-click="1" />
   </div>
 </div>
 
